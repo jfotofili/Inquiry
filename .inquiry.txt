@@ -2,4 +2,5 @@
 * text=auto
 something new
 another try
+branch 2
 
